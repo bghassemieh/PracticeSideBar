@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PracticeSideBar</string>
+    <string name="nav_open">Nav Open</string>
+    <string name="nav_close">Nav Close</string>
+</resources>
